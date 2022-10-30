@@ -1,4 +1,4 @@
 "Cambios no añadidos"
-Hola
 
-Naci en guerrero
+
+Se utilizo el chekout con un commit anterior
